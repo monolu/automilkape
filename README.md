@@ -1,2 +1,5 @@
 # automilkape
-milk ape
+
+https://twitter.com/ApeAutomated
+
+using textgenrnn neural network
